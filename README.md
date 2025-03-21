@@ -2,6 +2,6 @@
 Sprint 7 - Proyecto Kenia Natera
 
 #repositorio GitHUb
-https://github.com/knatera/Sprint7_EntregaFinal_KN/edit/main/README.md
+https://github.com/knatera/Sprint7_EntregaFinal_KN/
 
 #
